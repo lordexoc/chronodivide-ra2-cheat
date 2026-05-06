@@ -11,6 +11,7 @@
 ## Preview
 
 ![Preview](preview.png)
+![Preview 2](previews/preview2.png)
 
 ## Features
 
