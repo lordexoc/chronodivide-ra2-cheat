@@ -1,5 +1,5 @@
 // ChronoDivide / Red Alert 2 Online - Cheat Panel (ESP)
-// https://github.com/lordexoc/chronodivide-ra2-cheat
+// https://github.com/lordexoc/chronodivide-ra2-spy-panel
 (function() {
   if (window._spyInterval) clearInterval(window._spyInterval);
   if (document.getElementById('spy-panel')) document.getElementById('spy-panel').remove();
