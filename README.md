@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lordexoc&repo=chronodivide-ra2-spy-panel&color=brightgreen&label=views)
 
-# ChronoDivide / Red Alert 2 Online - Spy Panel
+# ChronoDivide Cheat / Red Alert 2 Online - Spy Panel
 
 > ⚠️ **For educational purposes only.** Demonstrates how browser-based lockstep multiplayer games expose client-side state.
 
