@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/lordexoc/chronodivide-ra2-spy-panel?style=social&cacheSeconds=300)
+![GitHub stars](https://img.shields.io/github/stars/lordexoc/chronodivide-ra2-spy-panel?style=social&cacheSeconds=200)
 
 **If you find this useful, drop a ⭐ — it helps visibility.**
 
