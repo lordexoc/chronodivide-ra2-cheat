@@ -1,4 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/lordexoc/chronodivide-ra2-cheat?style=social)
+![GitHub stars](https://img.shields.io/github/stars/lordexoc/chronodivide-ra2-cheat?style=social&cacheSeconds=300)
 
 **If you find this useful, drop a ⭐ — it helps visibility.**
 
