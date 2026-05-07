@@ -55,7 +55,7 @@
       <button id="spy-minus" style="background:none;border:1px solid #888;color:#fff;width:20px;height:20px;cursor:pointer;border-radius:3px;margin:0 2px;font-size:12px;">−</button>
       <button id="spy-plus" style="background:none;border:1px solid #888;color:#fff;width:20px;height:20px;cursor:pointer;border-radius:3px;margin:0 2px;font-size:12px;">+</button>
       <button id="spy-mini" style="background:none;border:1px solid #888;color:#fff;width:20px;height:20px;cursor:pointer;border-radius:3px;margin:0 2px;font-size:12px;">_</button>
-      <button id="spy-dc" style="background:#600;border:1px solid #f00;color:#fff;width:26px;height:20px;cursor:pointer;border-radius:3px;margin:0 2px;font-size:9px;font-weight:bold;">DC</button>
+      <button id="spy-dc" style="background:#600;border:1px solid #f00;color:#fff;width:26px;height:20px;cursor:pointer;border-radius:3px;margin:0 2px;font-size:9px;font-weight:bold;">RQ</button>
     </div>
   `;
   panel.appendChild(toolbar);
