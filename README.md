@@ -52,7 +52,7 @@ ChronoDivide uses lockstep multiplayer — every client runs the full game simul
 
 ## More to Come
 Planned features for upcoming releases:
-- 🏳️ **Safe rage quit** — exit ranked matches without losing rating points
+- 🏳️ **Safe rage quit** — exit ranked matches without losing rating points (Available now!)
 - 🗺️ **Map ESP overlay** — visualize all units, structures and harvesters directly on the in-game map
 - 📊 **Player win/loss stats** — track win rates and match history per player
 - 🎯 **Unit pathing prediction** — show enemy movement vectors in real-time
