@@ -16,6 +16,7 @@
 ## Features
 
 - 💰 Real-time enemy credits
+- 🗺️ Visible all map (no Fog!)
 - ⚡ Power status (low power alert)
 - 📦 Production queue with progress bars
 - 🚜 Harvester positions (coordinates)
