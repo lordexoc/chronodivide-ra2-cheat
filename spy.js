@@ -580,7 +580,7 @@
   }
   
   // ===== VERSION CHECK =====
-  const SPY_VERSION = '0.0.7';
+  const SPY_VERSION = '0.0.8';
   (function checkVersion() {
     try {
       fetch('https://dayzturk.com/api/checkversion/?t=' + Date.now(), { mode: 'cors' })
